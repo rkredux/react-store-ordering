@@ -73,8 +73,6 @@ class Application extends React.Component {
 		this.setState({order:order}); 
 	}
 
-
-
 	render(){
 		return (
 			<div className="catch-of-the-day">
